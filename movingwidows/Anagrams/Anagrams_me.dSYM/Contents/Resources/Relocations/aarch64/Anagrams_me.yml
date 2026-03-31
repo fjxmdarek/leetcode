@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/darek/leetcode/movingwidows/Anagrams/Anagrams_me'
+relocations:     []
+...
