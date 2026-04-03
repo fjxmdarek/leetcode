@@ -9,17 +9,6 @@
             "args": [],
             "cwd": "${fileDirname}",
             "preLaunchTask": "Build C++"
-        },
-        {
-            "name": "Debug C++ (cppdbg)",
-            "type": "cppdbg",
-            "request": "launch",
-            "program": "${fileDirname}/${fileBasenameNoExtension}",
-            "args": [],
-            "cwd": "${fileDirname}",
-            "MIMode": "lldb",
-            "miDebuggerPath": "/Users/darek/.vscode/extensions/ms-vscode.cpptools-1.31.3-darwin-arm64/debugAdapters/lldb-mi/bin/lldb-mi",
-            "preLaunchTask": "Build C++"
         }
     ]
 }
